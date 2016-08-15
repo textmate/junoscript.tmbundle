@@ -36,7 +36,7 @@
 			<key>match</key>
 			<string>(\/[-a-zA-Z0-9_]+|[-a-zA-Z0-9_]+\/[-a-zA-Z0-9_]+|\/[-a-zA-Z0-9_]+\/[-a-zA-Z0-9_]+)</string>
 			<key>name</key>
-			<string>constant.namespace.slax</string>
+			<string>constant.other.namespace.slax</string>
 		</dict>
 		<dict>
 			<key>match</key>
