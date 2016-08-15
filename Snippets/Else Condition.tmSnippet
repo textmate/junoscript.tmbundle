@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>else {
 	${0:/* code */}
-}
-</string>
+}</string>
 	<key>name</key>
 	<string>Else Condition</string>
 	<key>scope</key>

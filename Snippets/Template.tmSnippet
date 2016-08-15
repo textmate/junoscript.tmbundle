@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>template ${1:/* name */}(${2:/* args */}) {
 	${0:/* code */}
-}
-</string>
+}</string>
 	<key>name</key>
 	<string>Template</string>
 	<key>scope</key>

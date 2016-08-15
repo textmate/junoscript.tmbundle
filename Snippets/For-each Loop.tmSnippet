@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>for-each (${1:/* iterative */}) {
 	${0:/* code */}
-}
-</string>
+}</string>
 	<key>name</key>
 	<string>For-each Loop</string>
 	<key>scope</key>

@@ -4,8 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>&lt;$1&gt; $2;
-$0
-</string>
+$0</string>
 	<key>name</key>
 	<string>Tag - Singleton</string>
 	<key>scope</key>
